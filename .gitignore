@@ -1,0 +1,16 @@
+ ```bash
+   # Ignorar a pasta da máquina virtual
+   venv/
+
+   # Ignorar arquivos e diretórios criados pelo Python
+   __pycache__/
+   *.py[cod]
+   *.sqlite3
+
+   # Ignorar arquivos criados pelo sistema operacional
+   .DS_Store
+   *.log
+
+   # Ignorar pastas e arquivos de configuração do IDE
+   .vscode/
+   ```
