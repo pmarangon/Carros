@@ -1,0 +1,20 @@
+# Ambiente virtual
+venv/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Banco de dados SQLite (se estiver usando SQLite como banco de dados)
+db.sqlite3
+
+# Arquivos de log
+*.log
+
+# Pastas e arquivos do sistema operacional
+.DS_Store  # Para macOS
+Thumbs.db  # Para Windows
+
+# Arquivos temporários
+*.bak
+*.swp
